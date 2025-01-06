@@ -1,6 +1,3 @@
-# my_pml
-
-Starter Flutter project with auth feature. Built with appwrite and riverpod.
 
 ## Getting Started
 
