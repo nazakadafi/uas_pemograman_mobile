@@ -1,7 +1,7 @@
 
 ## Getting Started
 
-1. clone or fork this project: `git clone https://github.com/khanifzyen/my_pml`
+1. clone or fork this project: `git clone https://github.com/nazakadafi/uas_pemograman_mobile`
 2. get packages: `dart pub get`
 3. update latest package version: `dart pub upgrade`
 4. run code generator for freezed and riverpod_generator `dart run build_runner build`
